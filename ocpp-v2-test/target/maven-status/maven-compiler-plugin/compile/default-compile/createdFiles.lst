@@ -1,0 +1,8 @@
+eu/chargetime/ocpp/test/FakeCSMS.class
+eu/chargetime/ocpp/test/OCPP201MultiProtocolFakeChargingStation$1.class
+eu/chargetime/ocpp/test/FakeChargingStation.class
+eu/chargetime/ocpp/test/OCPP201MultiProtocolDummyHandlers.class
+eu/chargetime/ocpp/test/OCPP201MultiProtocolDummyHandlers$1.class
+eu/chargetime/ocpp/test/OCPP201MultiProtocolFakeChargingStation$2.class
+eu/chargetime/ocpp/test/OCPP201MultiProtocolFakeChargingStation.class
+eu/chargetime/ocpp/test/OCPP201MultiProtocolFakeCSMS.class

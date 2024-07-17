@@ -1,0 +1,12 @@
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/OCPP-J/src/main/java/eu/chargetime/ocpp/WebSocketListener.java
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/OCPP-J/src/main/java/eu/chargetime/ocpp/wss/WssFactoryBuilder.java
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/OCPP-J/src/main/java/eu/chargetime/ocpp/wss/WssSocketBuilder.java
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/OCPP-J/src/main/java/eu/chargetime/ocpp/JSONConfiguration.java
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/OCPP-J/src/main/java/eu/chargetime/ocpp/wss/BaseWssSocketBuilder.java
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/OCPP-J/src/main/java/eu/chargetime/ocpp/WebSocketReceiverEvents.java
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/OCPP-J/src/main/java/eu/chargetime/ocpp/JSONCommunicator.java
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/OCPP-J/src/main/java/eu/chargetime/ocpp/Draft_HttpHealthCheck.java
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/OCPP-J/src/main/java/eu/chargetime/ocpp/wss/CustomSSLWebSocketServerFactory.java
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/OCPP-J/src/main/java/eu/chargetime/ocpp/WebSocketTransmitter.java
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/OCPP-J/src/main/java/eu/chargetime/ocpp/wss/BaseWssFactoryBuilder.java
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/OCPP-J/src/main/java/eu/chargetime/ocpp/WebSocketReceiver.java

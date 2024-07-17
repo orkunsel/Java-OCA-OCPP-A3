@@ -1,0 +1,7 @@
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/ocpp-v2_0-test/src/main/java/eu/chargetime/ocpp/test/FeatureTestDecorator.java
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/ocpp-v2_0-test/src/main/java/eu/chargetime/ocpp/test/FakeChargePoint.java
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/ocpp-v2_0-test/src/main/java/eu/chargetime/ocpp/test/features/GetVariables.java
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/ocpp-v2_0-test/src/main/java/eu/chargetime/ocpp/test/features/StatusNotification.java
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/ocpp-v2_0-test/src/main/java/eu/chargetime/ocpp/test/features/SetVariables.java
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/ocpp-v2_0-test/src/main/java/eu/chargetime/ocpp/test/features/BootNotification.java
+/Users/yasino/SummerTerm2024/CSCI3130/Java-OCA-OCPP/ocpp-v2_0-test/src/main/java/eu/chargetime/ocpp/test/FakeCentralSystem.java

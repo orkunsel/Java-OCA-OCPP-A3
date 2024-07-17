@@ -1,0 +1,10 @@
+eu/chargetime/ocpp/test/FakeChargePoint$1.class
+eu/chargetime/ocpp/test/FakeCentralSystem$1.class
+eu/chargetime/ocpp/test/features/StatusNotification.class
+eu/chargetime/ocpp/test/FeatureTestDecorator.class
+eu/chargetime/ocpp/test/features/GetVariables.class
+eu/chargetime/ocpp/test/FakeChargePoint.class
+eu/chargetime/ocpp/test/FeatureTestDecorator$IRequestMonitor.class
+eu/chargetime/ocpp/test/FakeCentralSystem.class
+eu/chargetime/ocpp/test/features/SetVariables.class
+eu/chargetime/ocpp/test/features/BootNotification.class

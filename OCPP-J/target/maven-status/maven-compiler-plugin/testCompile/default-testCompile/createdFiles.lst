@@ -1,0 +1,5 @@
+eu/chargetime/ocpp/wss/test/CustomSSLWebSocketServerFactoryTest$TestSSLContextSpi.class
+eu/chargetime/ocpp/wss/test/BaseWssSocketBuilderTest.class
+eu/chargetime/ocpp/wss/test/BaseWssFactoryBuilderTest.class
+eu/chargetime/ocpp/wss/test/CustomSSLWebSocketServerFactoryTest$TestSSLContext.class
+eu/chargetime/ocpp/wss/test/CustomSSLWebSocketServerFactoryTest.class

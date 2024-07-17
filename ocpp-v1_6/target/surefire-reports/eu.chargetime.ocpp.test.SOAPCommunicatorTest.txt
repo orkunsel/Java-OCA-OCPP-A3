@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: eu.chargetime.ocpp.test.SOAPCommunicatorTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 0, Errors: 0, Skipped: 15, Time elapsed: 0.003 s -- in eu.chargetime.ocpp.test.SOAPCommunicatorTest

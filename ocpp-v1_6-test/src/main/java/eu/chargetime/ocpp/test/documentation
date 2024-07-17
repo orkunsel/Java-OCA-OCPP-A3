@@ -1,0 +1,27 @@
+'''
+Smells:
+
+A)
+
+1.) Long Parameter List -->  (ChargingProfile.java)
+Charging profile had a LongParameterList smell, I used the builder pattern that improved the readability, maintainability of the code. 
+
+2.) Long Method ---> open() in MultiProtocolWebSocketListener.java
+Method was very long and contained a lot of logic, making it hard to maintain. I extracted the method into
+4 separate methods handling all the different aspects of WebSocket events. Now the method is a lot more shorter and readable.
+
+3.) Complex Method ---> open() in MultiProtocolWebSocketListener.java
+As stated before, method was very long but also contained a lot of responsibilities and logic, which we solved by separating the method into
+different smaller methods. So both the Long Method smell and Complex Method smell very dealt with.
+
+B)
+
+1.) Unutilized Abstraction ---> ServerEventConfig.java
+
+Extracted inner class 'Server Events' into a named class 'CustomerServerEvents',(SRP).
+Updated the configuration class. Improved readabiliy, and usability.
+
+2.) 
+
+
+'''
